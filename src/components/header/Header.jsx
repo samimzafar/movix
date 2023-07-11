@@ -1,11 +1,7 @@
-import React from 'react'
-import "./style.scss"
+import React from "react";
+import "./style.scss";
 const Header = () => {
-    return (
-        <div>
+  return <div>Header</div>;
+};
 
-        </div>
-    )
-}
-
-export default Header
+export default Header;
