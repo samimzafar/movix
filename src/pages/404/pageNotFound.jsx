@@ -1,6 +1,6 @@
-import React from "react";
-import "./style.scss";
+import React from 'react';
+import './style.scss';
 const pageNotFound = () => {
-    return <div></div>;
+  return <div></div>;
 };
 export default pageNotFound;

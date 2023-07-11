@@ -1,7 +1,7 @@
-import React from "react";
-import "./style.scss";
+import React from 'react';
+import './style.scss';
 const Explore = () => {
-    return <div></div>;
+  return <div></div>;
 };
 
 export default Explore;

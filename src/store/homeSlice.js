@@ -1,6 +1,6 @@
-import { createSlice } from "@reduxjs/toolkit";
+import { createSlice } from '@reduxjs/toolkit';
 export const homeSlice = createSlice({
-  name: "home",
+  name: 'home',
   initialState: {
     url: {},
     genres: {},
